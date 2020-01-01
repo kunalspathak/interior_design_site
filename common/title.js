@@ -1,0 +1,1 @@
+document.write(`<title>Interior designer by Priyanka</title>`);
